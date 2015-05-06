@@ -1,0 +1,21 @@
+// POST
+{
+    "post_id"          : "05fs8400-e29b-41d4-g716-230450348593", // 포스트 아이디
+    "post_type"        : "AD",                                   // post type 참고
+    "latitude"         : 234.123456,                             // 위도 (필요시 입력)
+    "longitude"        : 123.123456,                             // 경도 (필요시 입력)
+    "address"          : "Yeoksam-dong > SEOUL Building",        // 포스트에 표시된 짧은 주소
+    "writer_email"     : "meinzug@me.com",                       // 작성자 이메일
+    "writer_name"      : "John Smith",                           // 작성자 이름
+    "writer_title"     : "Asset Specialist",                     // 작성자 타이틀 (대표 타이틀)
+    "writer_level"     : 9,                                      // 작성자 레벨  
+    "writer_thumbnail" : "http://umanji.com/fjwofnwn92fk0d.png", // 작성자 썸네일 URL
+    "create_time"      : "2001-01-01 pm 3:01",
+    "update_time"      : "2001-01-01 pm 4:15",
+    "content"          : "fkjeimskdsfjnwj093kfm30dmm3psdmd30",   // 포스트 내용 (base64)
+    "like"             : 4562,                                   // 좋아요 수
+    "reply"            : 31                                      // 댓글 수
+}
+
+// post_type
+POST, AD, DRIECT_POST, BUILDING, SPACE, COMMUNITY, GROUP, HOT_PLACE, EVENT, SELL, BUY

@@ -1,0 +1,9 @@
+// MEMBER
+{
+    "email"        : "meinzug@me.com",                       // 이메일
+    "name"         : "John Smith",                           // 이름
+    "title"        : "Asset Specialist",                     // 타이틀
+    "level"        : 9,                                      // 레벨  
+    "thumbnail"    : "http://umanji.com/fjwofnwn92fk0d.png", // 썸네일
+    "cont_on_site" : 1234                                    // site 기여도
+}

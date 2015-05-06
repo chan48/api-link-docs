@@ -1,0 +1,17 @@
+// SITE (BUILDING, SPACE, COMMUNITY, GROUP)
+{
+    "site_id"      : "kd9dd0fw-ek2b-fk34-fl39-fj49dpf98393", // 사이트 아이디
+    "parent_id"    : "ff03jr9w-f93j-f92m-g02n-209fh30fj39d", // 부모 사이트 아이디
+    "keyword"      : ["OFFICE", "BUILDING"],                 // 키워드
+    "site_name"    : "NEW SEOUL BUILDING",                   // 빌딩 이름
+    "thumbnail"    : "dju290dju3nf9qdprh3mfo3nf",            // 이미지 (base64)
+    "owner_email"  : "meinzug@me.com",                       // 소유자 이메일
+    "owner_name"   : "John Smith",                           // 소유자 이름
+    "owner_title"  : "Asset Specialist",                     // 소유자 타이틀 (대표 타이틀)
+    "owner_level"  : 9,                                      // 소유자 레벨  
+    "price"        : 495837430,                              // 평가액
+    "address"      : "AB COFFEE,AB Bldg.1F,113,Yeoksam-dong,Gangnam-gu,Seoul,Korea",
+    "zipcode"      : "123-876",                              // 우편번호
+    "lot_id"       : "039dd0dw-wf2f-97d2-vk2f-249dkfu20ow3", // 지번 아이디
+    "floor "       : 12                                      // 층정보 (스페이스 경우)
+}

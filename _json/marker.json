@@ -1,0 +1,11 @@
+// MARKER
+{
+    "id"        : "550e8400-e29b-41d4-a716-446655440000", // 마커 아이디
+    "post_type" : "POST",                                 // mrker_type 참고
+    "latitude"  : 183.34593,                              // 위도
+    "longitude" : 298.95763,                              // 경도
+    "ref_id"    : "05fs8400-e29b-41d4-g716-230450348593"  // 연결된 포스트 아이디
+}
+
+// post_type
+POST, AD, DRIECT_POST, BUILDING, SPACE, COMMUNITY, GROUP, HOT_PLACE, EVENT, SELL, BUY

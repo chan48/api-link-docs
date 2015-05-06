@@ -1,0 +1,12 @@
+// FILTER
+{
+    "building"  : true,     // 빌딩 보기
+    "space"     : true,     // 스페이스 보기
+    "community" : true,     // 커뮤니티 보기
+    "top_n"     : 13,       // 트래픽 상위 N 개
+    "order_by"  : "TIME"    // order_by 참고
+    "keyword"   : "COFFEE"  // 키워드
+}
+
+// order_by
+TIME, CONT, MY_LOCATION
